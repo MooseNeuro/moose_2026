@@ -28,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.25316758"
-     inkscape:cx="861.08971"
-     inkscape:cy="527.3187"
+     inkscape:zoom="0.71606605"
+     inkscape:cx="498.55736"
+     inkscape:cy="645.89014"
      inkscape:window-width="1419"
      inkscape:window-height="738"
      inkscape:window-x="0"
@@ -258,7 +258,7 @@
                  style="stroke-width:2;stroke-dasharray:none">
                 <path
                    style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
-                   d="m -88.402105,288.60157 c -1.025046,0 234.384785,-0.27529 234.384785,-0.27529"
+                   d="m -83.290904,288.31318 c -1.025046,0 229.273584,0.0131 229.273584,0.0131"
                    id="path5085"
                    sodipodi:nodetypes="cc" />
               </g>
@@ -421,5 +421,9 @@
          style="font-size:19.7556px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
          x="74.642319"
          y="277.51355">Outside</tspan></text>
+    <path
+       style="opacity:1;fill:#006ddb;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:4, 4;stroke-dashoffset:0"
+       d="m 80.101693,242.37803 h 5"
+       id="path1" />
   </g>
 </svg>
