@@ -4,3 +4,5 @@ scipy
 matplotlib
 pymoose
 ipywidgets
+ipython
+io
